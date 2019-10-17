@@ -11,9 +11,24 @@
     </a> 
 </div>
 
-# Installation
+## Installation
 1. Install and connect with mongoDB [https://websiteforstudents.com/install-mongodb-with-apache2-php-7-2-support-on-ubuntu-16-04-17-10-18-04/](https://websiteforstudents.com/install-mongodb-with-apache2-php-7-2-support-on-ubuntu-16-04-17-10-18-04/)
 2. composer update
+
+
+## Structure Directory
+```
+php-mongodb/
+├── composer.json
+├── composer.lock
+├── connect.php
+├── create-collection.php
+├── create-database.php
+├── delete-collection.php
+├── find-collection.php
+├── readme.md
+└── upadte-collection.php
+```
 
 ## Reverensi
 1. [https://www.tutorialspoint.com/mongodb/mongodb_php.htm](https://www.tutorialspoint.com/mongodb/mongodb_php.htm)
