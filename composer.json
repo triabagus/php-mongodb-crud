@@ -1,0 +1,17 @@
+{
+    "name": "tria/php-mongodb",
+    "authors": [
+        {
+            "name": "triabagus",
+            "email": "triatop9@gmail.com"
+        }
+    ],
+    "require": {
+        "alcaeus/mongo-php-adapter": "^1.1"
+    },
+    "config": {
+        "platform": {
+            "ext-mongo": "1.6.16"
+        }
+    }
+}
