@@ -10,6 +10,7 @@
         <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat"></img>
     </a> 
 </div>
+
 # Installation
 1. Install and connect with mongoDB [https://websiteforstudents.com/install-mongodb-with-apache2-php-7-2-support-on-ubuntu-16-04-17-10-18-04/](https://websiteforstudents.com/install-mongodb-with-apache2-php-7-2-support-on-ubuntu-16-04-17-10-18-04/)
 2. composer update
